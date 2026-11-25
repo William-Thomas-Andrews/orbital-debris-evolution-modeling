@@ -3,6 +3,8 @@
 Reproduce the model from *Effects of Orbit Raising and Deorbiting in Source-Sink
 Evolutionary Models* using pySSEM, then extend the launch-rate terms.
 
+The paper attached is the reference for this work. It is not my own work.
+
 ## Build / run
 
 ```sh
